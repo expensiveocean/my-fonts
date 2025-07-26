@@ -1,0 +1,12 @@
+@font-face {
+  font-family: 'GillSans';
+  src: url('https://cdn.jsdelivr.net/gh/expensiveocean/my-fonts@main/GillSans.woff2') format('woff2'),
+       url('https://cdn.jsdelivr.net/gh/expensiveocean/my-fonts@main/GillSans.woff') format('woff'),
+       url('https://cdn.jsdelivr.net/gh/expensiveocean/my-fonts@main/GillSans.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+* {
+  font-family: 'GillSans', sans-serif !important;
+}
